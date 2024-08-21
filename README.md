@@ -10,6 +10,7 @@ Before running this notebook, ensure you have the following Python libraries ins
 - `pandas`
 
 You can install the required libraries using pip:
+- `pip install sentence_transformers pandas`
 
 
 ## Setup
