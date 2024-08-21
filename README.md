@@ -1,4 +1,4 @@
-# Vector Search Demo Notebook
+# Vector Search 
 
 This notebook demonstrates how to perform vector-based text search using the `sentence_transformers` library. It showcases encoding text data into vectors, storing these embeddings, and querying them to find the most semantically similar text entries to a given query.
 
@@ -10,6 +10,7 @@ Before running this notebook, ensure you have the following Python libraries ins
 - `pandas`
 
 You can install the required libraries using pip:
+- `pip install sentence_transformers pandas`
 
 
 ## Setup
